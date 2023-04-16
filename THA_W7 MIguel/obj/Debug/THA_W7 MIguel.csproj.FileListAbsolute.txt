@@ -1,0 +1,12 @@
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\bin\Debug\THA_W7 MIguel.exe.config
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\bin\Debug\THA_W7 MIguel.exe
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\bin\Debug\THA_W7 MIguel.pdb
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7 MIguel.csproj.AssemblyReference.cache
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7 MIguel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7_MIguel.Form1.resources
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7_MIguel.Properties.Resources.resources
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7 MIguel.csproj.GenerateResource.cache
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7 MIguel.csproj.CoreCompileInputs.cache
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7 MIguel.exe
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7 MIguel.pdb
+C:\Users\Michiellin Natalie G\source\repos\THA_W7 MIguel\THA_W7 MIguel\obj\Debug\THA_W7_MIguel.Form2.resources
